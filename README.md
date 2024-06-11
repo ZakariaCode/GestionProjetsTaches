@@ -29,16 +29,43 @@ TDL est une application conçue pour aider les professeurs à gérer leurs proje
   - Suivi des heures de travail par semaine, mois, et année.
   - Pourcentage des heures de travail par catégorie et type.
 
-  <div style="text-align: center;">
-    <img src="src/main/java/presentation/images/1.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
-    <img src="src/main/java/presentation/images/2.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
-    <img src="src/main/java/presentation/images/3.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
-    <img src="src/main/java/presentation/images/5.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
-    <img src="src/main/java/presentation/images/4.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
-    <img src="src/main/java/presentation/images/6.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
-    <img src="src/main/java/presentation/images/7.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
-    <img src="src/main/java/presentation/images/8.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
+## Aperçu Graphique de l'Application
+
+<div style="text-align: center;">
+    <figure>
+        <img src="src/main/java/presentation/images/1.png" alt="Capture d'écran 1" style="height: 350px; border-radius: 50%;">
+        <figcaption>Capture d'écran 1</figcaption>
+    </figure>
+    <figure>
+        <img src="src/main/java/presentation/images/2.png" alt="Capture d'écran 2" style="height: 350px; border-radius: 50%;">
+        <figcaption>Capture d'écran 2</figcaption>
+    </figure>
+    <figure>
+        <img src="src/main/java/presentation/images/3.png" alt="Capture d'écran 3" style="height: 350px; border-radius: 50%;">
+        <figcaption>Capture d'écran 3</figcaption>
+    </figure>
+    <figure>
+        <img src="src/main/java/presentation/images/4.png" alt="Capture d'écran 4" style="height: 350px; border-radius: 50%;">
+        <figcaption>Capture d'écran 4</figcaption>
+    </figure>
+    <figure>
+        <img src="src/main/java/presentation/images/5.png" alt="Capture d'écran 5" style="height: 350px; border-radius: 50%;">
+        <figcaption>Capture d'écran 5</figcaption>
+    </figure>
+    <figure>
+        <img src="src/main/java/presentation/images/6.png" alt="Capture d'écran 6" style="height: 350px; border-radius: 50%;">
+        <figcaption>Capture d'écran 6</figcaption>
+    </figure>
+    <figure>
+        <img src="src/main/java/presentation/images/7.png" alt="Capture d'écran 7" style="height: 350px; border-radius: 50%;">
+        <figcaption>Capture d'écran 7</figcaption>
+    </figure>
+    <figure>
+        <img src="src/main/java/presentation/images/8.png" alt="Capture d'écran 8" style="height: 350px; border-radius: 50%;">
+        <figcaption>Capture d'écran 8</figcaption>
+    </figure>
 </div>
+
 
 
 ## Outils Utilisés
