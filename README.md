@@ -1,7 +1,7 @@
 # Application de Gestion des Projets et Tâches Académiques
 
 <div style="text-align: center;">
-    <img src="src/java/presentation/images/Logo.png" alt="Logo" style="width: 150px; height: 150px; border-radius: 50%;">
+    <img src="src/main/java/presentation/images/Logo.png" alt="Logo" style="width: 150px; height: 150px; border-radius: 50%;">
 </div>
 ## Principe du Projet
 Cette application a été conçue pour aider les professeurs à gérer leurs projets et tâches académiques. Elle permet l'organisation et le suivi des activités liées à l'enseignement, la recherche et l'encadrement, en fournissant une interface intuitive pour gérer les projets, les tâches, et les séances de travail.
@@ -29,14 +29,14 @@ Cette application a été conçue pour aider les professeurs à gérer leurs pro
   - Pourcentage des heures de travail par catégorie et type.
 
   <div style="text-align: center;">
-    <img src="src/java/presentation/images/1.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
-    <img src="src/java/presentation/images/2.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
-    <img src="src/java/presentation/images/3.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
-    <img src="src/java/presentation/images/5.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
-    <img src="src/java/presentation/images/4.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
-    <img src="src/java/presentation/images/6.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
-    <img src="src/java/presentation/images/7.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
-    <img src="src/java/presentation/images/8.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
+    <img src="src/main/java/presentation/images/1.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
+    <img src="src/main/java/presentation/images/2.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
+    <img src="src/main/java/presentation/images/3.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
+    <img src="src/main/java/presentation/images/5.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
+    <img src="src/main/java/presentation/images/4.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
+    <img src="src/main/java/presentation/images/6.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
+    <img src="src/main/java/presentation/images/7.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
+    <img src="src/main/java/presentation/images/8.png" alt="Logo" style=" height: 350px; border-radius: 50%;">
 </div>
 
 
