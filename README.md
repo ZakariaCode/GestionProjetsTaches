@@ -3,8 +3,9 @@
 <div style="text-align: center;">
     <img src="src/main/java/presentation/images/Logo.png" alt="Logo" style="width: 150px; height: 150px; border-radius: 50%;">
 </div>
-## Principe du Projet
-Cette application a été conçue pour aider les professeurs à gérer leurs projets et tâches académiques. Elle permet l'organisation et le suivi des activités liées à l'enseignement, la recherche et l'encadrement, en fournissant une interface intuitive pour gérer les projets, les tâches, et les séances de travail.
+
+## Concept Fondateur d'Application
+TDL est une application conçue pour aider les professeurs à gérer leurs projets et tâches académiques. Elle permet l'organisation et le suivi des activités liées à l'enseignement, la recherche et l'encadrement, en fournissant une interface intuitive pour gérer les projets, les tâches, et les séances de travail.
 
 ## Fonctionnalités
 - **Authentification Utilisateur:** Connexion via un email Google.
