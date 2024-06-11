@@ -29,40 +29,47 @@ TDL est une application conçue pour aider les professeurs à gérer leurs proje
   - Suivi des heures de travail par semaine, mois, et année.
   - Pourcentage des heures de travail par catégorie et type.
 
-## Aperçu Graphique de l'Application
+## Quelques Aperçu Graphique de l'Application
 
 <div style="text-align: center;">
     <figure>
+        <figcaption>Authentification :</figcaption>
         <img src="src/main/java/presentation/images/1.png" alt="Capture d'écran 1" style="height: 350px; border-radius: 50%;">
-        <figcaption>Capture d'écran 1</figcaption>
     </figure>
+    
     <figure>
+        <figcaption>Projets :</figcaption>
         <img src="src/main/java/presentation/images/2.png" alt="Capture d'écran 2" style="height: 350px; border-radius: 50%;">
-        <figcaption>Capture d'écran 2</figcaption>
     </figure>
+    
     <figure>
+        <figcaption>Recherche :</figcaption>
         <img src="src/main/java/presentation/images/3.png" alt="Capture d'écran 3" style="height: 350px; border-radius: 50%;">
-        <figcaption>Capture d'écran 3</figcaption>
     </figure>
+    
     <figure>
+        <figcaption>Importation des tâche de google calendrier :</figcaption>
         <img src="src/main/java/presentation/images/4.png" alt="Capture d'écran 4" style="height: 350px; border-radius: 50%;">
-        <figcaption>Capture d'écran 4</figcaption>
     </figure>
+    
     <figure>
+        <figcaption>Formulaire d'ajout d'une liste :</figcaption>
         <img src="src/main/java/presentation/images/5.png" alt="Capture d'écran 5" style="height: 350px; border-radius: 50%;">
-        <figcaption>Capture d'écran 5</figcaption>
     </figure>
+    
     <figure>
+        <figcaption>Séances :</figcaption>
         <img src="src/main/java/presentation/images/6.png" alt="Capture d'écran 6" style="height: 350px; border-radius: 50%;">
-        <figcaption>Capture d'écran 6</figcaption>
     </figure>
+    
     <figure>
+        <figcaption>Tâches :</figcaption>
         <img src="src/main/java/presentation/images/7.png" alt="Capture d'écran 7" style="height: 350px; border-radius: 50%;">
-        <figcaption>Capture d'écran 7</figcaption>
     </figure>
+    
     <figure>
+        <figcaption>Listes :</figcaption>
         <img src="src/main/java/presentation/images/8.png" alt="Capture d'écran 8" style="height: 350px; border-radius: 50%;">
-        <figcaption>Capture d'écran 8</figcaption>
     </figure>
 </div>
 
